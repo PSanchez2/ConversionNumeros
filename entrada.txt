@@ -1,0 +1,7 @@
+2353hex; 200oct; 531bin; 400asc; 734 ale; 918bin;
+26ale;98asc;
+
+271bin;
+
+
+$
